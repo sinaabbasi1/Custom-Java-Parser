@@ -3,8 +3,8 @@
 This project involves designing and implementing a parser with Java CUP and modifying an existing scanner using JFlex.
 The goal was to enhance the scanner and parser to support additional constructs inspired by Java, while maintaining case-insensitive functionality and user-friendly error reporting.
 
-A custom Java parser with modified grammar, redefining certain statements and constructs. Includes a GUI-based compiler to display outputs from the scanner and parser.
-
+<!-- A custom Java parser with modified grammar, redefining certain statements and constructs. Includes a GUI-based compiler to display outputs from the scanner and parser.
+-->
 ## Getting Started
 
 This app runs smoothly with OpenJDK version 1.8.0_292.
@@ -76,9 +76,9 @@ java FrameGUI
      ```
 
 ### Additional Enhancements
+
 * **Case Insensitivity:** The scanner recognizes keywords regardless of case.
 * **Error Reporting:** Highlights problematic symbols and their location.
-
 
 ## Prerequisites
 
