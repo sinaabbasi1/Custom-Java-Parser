@@ -7,7 +7,13 @@ The goal is to enhance the scanner and parser to support additional constructs i
 -->
 ## Getting Started
 
-This app runs smoothly with OpenJDK version 1.8.0_292.
+### Prerequisites
+
+* **Java Development Kit (JDK):** Required to compile and run Java programs. This app runs smoothly with OpenJDK version 1.8.0_292.
+* **JFlex:** A lexical analyzer generator. [Installation Guide](https://www.youtube.com/watch?v=WLHn5JzLx6I)
+* **Java CUP:** A parser generator for Java. [Installation Guide](https://www.youtube.com/watch?v=zWoDiDy5c-U)
+
+### Steps to Run
 
 1. **Clone the repository:** <br />
 ```
@@ -79,12 +85,6 @@ java FrameGUI
 
 * **Case Insensitivity:** The scanner recognizes keywords regardless of case.
 * **Error Reporting:** Highlights problematic symbols and their location.
-
-## Prerequisites
-
-* **Java Development Kit (JDK):** Required to compile and run Java programs.
-* **JFlex:** A lexical analyzer generator. [Installation Guide](https://www.youtube.com/watch?v=WLHn5JzLx6I)
-* **Java CUP:** A parser generator for Java. [Installation Guide](https://www.youtube.com/watch?v=zWoDiDy5c-U)
 
 ## Screenshots
 
