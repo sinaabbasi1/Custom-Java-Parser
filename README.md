@@ -110,7 +110,7 @@ java FrameGUI
 
 ## Contributing
 
-Feel free to submit issues or pull requests if you find bugs or want to improve the game.
+Feel free to submit issues or pull requests if you find bugs or want to improve this project.
 
 ## License
 
